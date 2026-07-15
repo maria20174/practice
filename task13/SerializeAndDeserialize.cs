@@ -129,7 +129,7 @@ public class Program
                 BirthDate = new DateTime(2004, 12, 29),
                 Grades = new List<Subject>
                     {
-                        new Subject { Name = "Алгоритмизация и программирование", Grade = 5 },
+                        new Subject { Name = "Алгоритмизация и программирование", Grade = 4 },
                         new Subject { Name = "Математический анализ", Grade = 4 },
                         new Subject { Name = "Математическая логика", Grade = 4 },
                         new Subject { Name = "Алгебра", Grade = 5 },
